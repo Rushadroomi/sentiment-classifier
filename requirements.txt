@@ -1,0 +1,11 @@
+# Create requirements.txt
+echo fastapi > requirements.txt
+echo uvicorn >> requirements.txt
+echo torch >> requirements.txt
+echo transformers >> requirements.txt
+echo scikit-learn >> requirements.txt
+echo pandas >> requirements.txt
+echo datasets >> requirements.txt
+echo matplotlib >> requirements.txt
+echo seaborn >> requirements.txt
+echo nltk >> requirements.txt
